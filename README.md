@@ -9,6 +9,13 @@ Your Final Project has the following steps:
 * Present a summary of your work to the class and evaluate other group's presentations (25 pts) 
 * Final Summary         (10 pts)
 
+## English DB Group members
+
+* Ben Sixel
+* Emily Schaefer
+* Tony Song
+* Matt Mitchell
+
 ## Choose group members (3 points)
 
 Choose your group members and record that information in the repository.  Points will be subtracted, one for every day past Monday Nov 20th that this information is not present.
